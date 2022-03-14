@@ -1,2 +1,2 @@
 # WikiCultura
-Site para compartilhamento de culturas
+Plataforma para compartilhamento de culturas
